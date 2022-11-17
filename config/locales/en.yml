@@ -7,7 +7,7 @@ website:
 nouns:
   coffee: coffee
   corn: corn
-  crustacean shellfish: crustacean shellfish (e.g., crab, lobster, shrimp)
+  crustacean_shellfish: crustacean shellfish (e.g., crab, lobster, shrimp)
   eggs: eggs
   fish: fish (e.g., bass, flounder, cod)
   horse_radish: horse radish
