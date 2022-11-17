@@ -5,10 +5,17 @@ website:
   hello_my_name_is: Hello my name is
 
 nouns:
-  wheat: wheat
-  corn: corn
-  squash: squash (all gourds)
-  horse_radish: horse radish
-  spirulina: spirulina
-  pine apple: pine apple
   coffee: coffee
+  corn: corn
+  crustacean shellfish: crustacean shellfish (e.g., crab, lobster, shrimp)
+  eggs: eggs
+  fish: fish (e.g., bass, flounder, cod)
+  horse_radish: horse radish
+  milk: milk
+  peanuts: peanuts
+  pine apple: pine apple
+  soybeans: soybeans
+  spirulina: spirulina
+  squash: squash (all gourds)
+  tree_nuts: tree nuts (e.g., almonds, walnuts, pecans)
+  wheat: wheat
